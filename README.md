@@ -13,11 +13,19 @@ I am currently learning and building projects in:
 ## Projects
 
 ### RAG Document Q&A Agent
-A practical project where I built a system to ask questions from PDF documents using RAG.
+A practical application for asking questions from PDF documents using Retrieval-Augmented Generation (RAG).
 
 **Tools:** Python, LangChain, FAISS, NVIDIA AI Endpoints, Gradio
 
-I am also working on improving my backend and software development skills through projects and hands-on learning.
+### FutureAI Real Estate
+A real-estate price prediction project using Python, Pandas, and data analysis techniques.
+
+**Tools:** Python, Pandas, Machine Learning, Data Analysis
+
+### Spring Boot Faculty Management
+A backend REST API project implementing faculty management with Spring Boot and Spring Data JPA.
+
+**Tools:** Java, Spring Boot, Spring Data JPA, Hibernate, MySQL
 
 ## Certifications
 
