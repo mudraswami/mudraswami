@@ -45,6 +45,6 @@ A backend REST API project implementing faculty management with Spring Boot and 
 
 ## Looking For
 
-I am looking for internship opportunities where I can learn, work on real projects, and improve my technical skills.
+I am looking for internship opportunities in AI/ML, Generative AI, RAG, and backend development where I can contribute to real-world projects and continue learning.
 
 Thanks for visiting my profile!
