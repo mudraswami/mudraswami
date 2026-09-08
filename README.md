@@ -2,7 +2,7 @@
 
 I am a B.Tech CSE (AI) student at KL University, graduating in 2028.
 
-I am currently learning and building projects in:
+I am learning and building projects focused on:
 
 - Generative AI
 - LLMs
